@@ -1,0 +1,21 @@
+Django is a free open source framework
+
+it is used by many sites, it allows us to create it dinamically 
+
+We will connect front end and back end wth Django 
+
+There are excellent references
+
+They also have a tutorial 
+
+it extends to newspaper 
+
+Create a virtual environment 
+How to use it 
+What is important to use 
+Packages in your computer 
+It changes and updates often 
+If you want to test but you don't want to brake 
+
+you can create a newer version or older version 
+
